@@ -9,6 +9,7 @@ Download [Click Here](https://1drv.ms/u/s!AjkBQYobNSUf2ghnN_3yAEBU6QVy)
 Demo : [https://downloadcenter.khonkaennewscenter.xyz/](https://downloadcenter.khonkaennewscenter.xyz/)
 
 Username : admin
+
 Password : 123456
 
 #ฟังก์ชันของ 1.0
