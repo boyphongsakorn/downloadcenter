@@ -1,9 +1,9 @@
-# downloadcenter
+# Download Center
 
 ยินดีต้อนรับ ทุกท่านเข้าสู่ downloadcenter ของผมครับ
 ผมพึ่งลองทำครับ อาจจะแก้ไปเรื่อยๆ ถ้าว่างนะครับ ตรงนี้จะใช้ระบบ Facebook ไม่มีการเปลี่ยนเพราะว่า ผมได้ทำ ระบบ Login เอาอีกที่หนึ่งแล้วครับ
 
-# Download Center 1.0 is Free
+# Download Center 1.0 is Free (Not Facebook Login Version)
 Download [Click Here](https://1drv.ms/u/s!AjkBQYobNSUf2ghnN_3yAEBU6QVy)
 
 Demo : [https://downloadcenter.khonkaennewscenter.xyz/](https://downloadcenter.khonkaennewscenter.xyz/)
